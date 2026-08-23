@@ -47,6 +47,9 @@ Select the appropriate AI model in the sidebar based on your machine's available
 
 ---
 
+<img width="1440" height="900" alt="Screenshot 2026-08-23 at 10 42 35 PM" src="https://github.com/user-attachments/assets/3d20ba38-b05b-4ad3-9aef-881dd42bec3e" />
+
+
 ## 💡 How to Use
 1. **Upload Files:** Upload one or multiple CSV files (General Ledgers, Trial Balances, Subledgers) up to 2 GB each.
 2. **Select Model:** Choose your model (`Fast` or `Smart`) in the sidebar.
