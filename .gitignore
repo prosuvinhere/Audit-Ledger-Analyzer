@@ -1,1 +1,15 @@
 temp_customers-2000000.csv
+# Ignore the virtual environment
+venv/
+.env/
+
+# Ignore temporary and test data files
+temp_*.csv
+mock_general_ledger.csv
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
